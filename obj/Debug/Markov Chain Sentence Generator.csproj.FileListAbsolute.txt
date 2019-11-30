@@ -1,0 +1,5 @@
+D:\Down\Markov-Text-Generator-master\Markov-Text-Generator-master\Markov Chain Sentence Generator\obj\Debug\Markov Chain Sentence Generator.csprojAssemblyReference.cache
+D:\Down\Markov-Text-Generator-master\Markov-Text-Generator-master\Markov Chain Sentence Generator\obj\Debug\MainWindow.g.cs
+D:\Down\Markov-Text-Generator-master\Markov-Text-Generator-master\Markov Chain Sentence Generator\obj\Debug\App.g.cs
+D:\Down\Markov-Text-Generator-master\Markov-Text-Generator-master\Markov Chain Sentence Generator\obj\Debug\Markov Chain Sentence Generator_MarkupCompile.cache
+D:\Down\Markov-Text-Generator-master\Markov-Text-Generator-master\Markov Chain Sentence Generator\obj\Debug\Markov Chain Sentence Generator_MarkupCompile.lref
